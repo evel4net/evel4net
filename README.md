@@ -23,3 +23,11 @@ I am a second year computer science student @ UBB Cluj-Napoca, drawn to game dev
 - LinkedIn: [in/emma-vasii](https://www.linkedin.com/in/emma-vasii/)
 - itch.io: [evel4net.itch.io](https://evel4net.itch.io/)
 
+## Cabinet of curiosities
+[![BitmapWorld](/media/bitmap.gif)](https://bitmapworld.thecomicseries.com/archive)
+![IFArchive](/media/ifarchive.gif)
+
+![ILikeComputer](/media/i_like_computer.png)
+![games](/media/icon6.gif)
+![css](media/css.png)
+![RespectArtists](/media/respecta.gif)
