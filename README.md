@@ -17,7 +17,7 @@ o                  .      - o - '              '                    + o         
 ```
 
 ## 📟 About me
-I am a second year computer science student @ UBB Cluj-Napoca, drawn to game development and curious about diving into IoT and embedded systems.
+I am a third year computer science student @ UBB Cluj-Napoca, drawn to game development and curious about diving into IoT and embedded systems.
 
 ## 🌐 Contact
 - LinkedIn: [in/emma-vasii](https://www.linkedin.com/in/emma-vasii/)
